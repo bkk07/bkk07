@@ -100,7 +100,7 @@
 
 - LeetCode Knight
 - 1975+ Contest Rating
-- 1300+ Problems Solved
+- 1375+ Problems Solved
 - Rank 532 in LeetCode Weekly Contest 500
 
 ---

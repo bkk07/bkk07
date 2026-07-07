@@ -9,7 +9,7 @@
 
 💬 Ask me about **Java, Spring Boot, Kafka, Redis, MySQL, DSA, and Backend Development**
 
-⚡ Fun fact: **Solved 1300+ LeetCode problems and achieved a 1975+ rating while pursuing B.Tech**
+⚡ Fun fact: **Solved 1400+ LeetCode problems and achieved a 1975+ rating while pursuing B.Tech**
 
 🏆 **LeetCode Knight | Rank 532 in Weekly Contest 500**
 
@@ -99,8 +99,8 @@
 ### 🏆 Competitive Programming
 
 - LeetCode Knight
-- 1975+ Contest Rating
-- 1375+ Problems Solved
+- 1975(peak) Contest Rating
+- 1400+ Problems Solved
 - Rank 532 in LeetCode Weekly Contest 500
 
 ---

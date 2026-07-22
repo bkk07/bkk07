@@ -106,3 +106,4 @@
 ---
 
 [![](https://komarev.com/ghpvc/?username=bkk07&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/bkk07)
+[![Kiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bkk07&theme=github-compact)](https://github.com/bkk07)

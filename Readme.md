@@ -80,16 +80,3 @@
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-8E44AD?style=for-the-badge)
 ![Computer Networks](https://img.shields.io/badge/Computer_Networks-16A085?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System_Design-2C3E50?style=for-the-badge)
-
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=bkk07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=bkk07&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bkk07&theme=tokyonight&hide_border=false&layout=compact)
-
-[![](https://komarev.com/ghpvc/?username=bkk07&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/bkk07)
-[![Kiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bkk07&theme=github-compact)](https://github.com/bkk07)

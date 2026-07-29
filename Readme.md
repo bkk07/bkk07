@@ -91,19 +91,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bkk07&theme=tokyonight&hide_border=false&layout=compact)
 
----
-## 🏆 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bkk7?theme=dark&font=baloo&border=1)](https://leetcode.com/u/bkk7/)
-
-### 🏆 Competitive Programming
-
-- LeetCode Knight
-- 1975(peak) Contest Rating
-- 1400+ Problems Solved
-- Rank 532 in LeetCode Weekly Contest 500
-
----
-
 [![](https://komarev.com/ghpvc/?username=bkk07&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/bkk07)
 [![Kiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bkk07&theme=github-compact)](https://github.com/bkk07)
